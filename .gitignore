@@ -1,13 +1,13 @@
 *.tar.gz
 
 *.exe
-src/litecoin
-src/litecoind
-src/litecoin-cli
-src/litecoin-tx
-src/test/test_litecoin
-src/test/test_litecoin_fuzzy
-src/qt/test/test_litecoin-qt
+src/pudimcoin
+src/pudimcoind
+src/pudimcoin-cli
+src/pudimcoin-tx
+src/test/test_pudimcoin
+src/test/test_pudimcoin_fuzzy
+src/qt/test/test_pudimcoin-qt
 
 # autoreconf
 Makefile.in
@@ -74,12 +74,12 @@ src/qt/test/moc*.cpp
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-litecoin-qt
-Litecoin-Qt.app
+pudimcoin-qt
+Pudimcoin-Qt.app
 
 # Unit-tests
 Makefile.test
-litecoin-qt_test
+pudimcoin-qt_test
 src/test/buildenv.py
 
 # Resources cpp
@@ -93,7 +93,7 @@ build
 *.gcno
 *.gcda
 /*.info
-test_litecoin.coverage/
+test_pudimcoin.coverage/
 total.coverage/
 coverage_percent.txt
 
