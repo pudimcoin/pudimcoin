@@ -38,8 +38,8 @@
         <translation>Билдирүүнү &amp;текшерүү...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Pudimcoin</source>
+        <translation>Pudimcoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -101,8 +101,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Pudimcoin</source>
+        <translation>Pudimcoin</translation>
     </message>
     <message>
         <source>Error</source>
